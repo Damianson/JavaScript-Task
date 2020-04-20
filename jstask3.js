@@ -24,4 +24,4 @@ function yugioh(n) {
     return x;
 };
 
-console.log(yugioh(30));
+console.log(yugioh(10));
